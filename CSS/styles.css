@@ -20,6 +20,7 @@ body {
     height: 1px;
     background-color: black;
     width: 30%;
+    margin: auto;
 }
 
 .card-image {
@@ -36,7 +37,7 @@ body {
 
 .botoes-card {
     display: flex;
-    justify-content: center;
+    justify-content: center: 
 }
 
 #btn-sobre {
@@ -99,7 +100,7 @@ body {
 
     .card-col {
         display: flex;
-        justify-content: flex-end;
+        justify-content: center;
         align-content: center;
         background-color: #fff !important; 
         box-shadow: -10px 5px 10px 0px #292A2D;
