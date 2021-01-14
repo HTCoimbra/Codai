@@ -1,5 +1,5 @@
-var nome= "Coimbra";
-var cargo="Mestre";
+var nome= "Henrique Coimbra";
+var cargo="Desenvolvedor";
 
 var nomehtml = document.getElementById("nome-no-html");
 var cargohtml = document.getElementById("cargo-no-html");
